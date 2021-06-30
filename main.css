@@ -1,0 +1,36 @@
+html {
+    background-color: #0e8c3e;
+}
+
+body {
+    width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    margin-top: 28px;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 72px;
+}
+
+.headline {
+    color: white;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.download {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
